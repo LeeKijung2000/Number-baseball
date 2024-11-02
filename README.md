@@ -1,4 +1,6 @@
 
+![image](https://github.com/user-attachments/assets/11a60f33-babf-4959-bbf2-79139ddfc323)
+
 - 소속 : 강릉원주대학교 멀티미디어공학과
 - 팀이름 : 3조
 - 조원 : 이기정(20241862)
